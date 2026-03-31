@@ -49,14 +49,4 @@
   <a href="mailto:tuandatnd.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Star History
 
-## Star History
-
-<a href="https://star-history.com/TuanDatND/pretext">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1" />
- </picture>
-</a>
