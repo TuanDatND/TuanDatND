@@ -51,10 +51,12 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/">
+## Star History
+
+<a href="https://star-history.com/TuanDatND/pretext">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=TuanDatND/pretext&style=landscape1" />
  </picture>
 </a>
