@@ -41,18 +41,20 @@
 </p>
 
 ---
-## Star History
 
-<a href="https://star-history.com/kubernetes-sigs/TuanDatND">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=kubernetes-sigs/kubespray&style=landscape1&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=kubernetes-sigs/kubespray&style=landscape1" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=kubernetes-sigs/kubespray&style=landscape1" />
- </picture>
-</a>
 
 ### 📫 Connect with me:
 <p align="left">
   <a href="www.linkedin.com/in/tuandatnguyendinh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tuandatnd.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+## Star History
+
+<a href="https://www.star-history.com/">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=TuanDatND/central-kitchen-franchise-management-backend&type=date&legend=top-left" />
+ </picture>
+</a>
