@@ -42,13 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDatND&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Connect with me:
 <p align="left">
   <a href="www.linkedin.com/in/tuandatnguyendinh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
