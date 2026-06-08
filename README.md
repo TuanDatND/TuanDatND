@@ -7,10 +7,8 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on the **Hospital Management System** and **Central Kitchen & Franchise Management System (CenFra MS)**.
 - 🌱 I’m currently diving deeper into **Spring Boot**, and **AWS**.
-- 👯 I’m looking to collaborate on Open Source projects related to Java and IoT.
-- 💬 Ask me about **Java (Servlets, JSP, Hibernate)**, **Arduino**, or **Git**.
-- ⚡ Fun fact: I was born in the **Year of the Monkey** 🐒 and I love tinkering with IoT devices.
-
+- 👯 I’m looking to collaborate on Open Source projects related to Java.
+- 💬 Ask me about **Java (Servlets, JSP, Hibernate)**, **Arduino**.
 ---
 
 ### 🛠 Tech Stack:
