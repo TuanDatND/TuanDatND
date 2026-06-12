@@ -3,12 +3,6 @@
 <div align="center">
   <img src="https://github.com/TuanDatND/TuanDatND/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-### 💫 About Me:
-- 🔭 I’m currently working on the **Hospital Management System** and **Central Kitchen & Franchise Management System (CenFra MS)**.
-- 🌱 I’m currently diving deeper into **Spring Boot**, and **AWS**.
-- 👯 I’m looking to collaborate on Open Source projects related to Java.
-- 💬 Ask me about **Java (Servlets, JSP, Hibernate)**, **Arduino**.
 ---
 
 ### 🛠 Tech Stack:
