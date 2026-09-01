@@ -6,8 +6,6 @@
 
 ###
 
-<p data-importer="text" align="left">I'm TuanDatND!</p>
-
 ###
 
 <div data-importer="techs" align="center">
