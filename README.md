@@ -50,11 +50,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=TuanDatND&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuanDatND/TuanDatND/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
