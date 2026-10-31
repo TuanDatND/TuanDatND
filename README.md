@@ -1,25 +1,3 @@
-<img data-importer="snake" src="https://raw.githubusercontent.com/TuanDatND/TuanDatND/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
-###
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-
-  <img
-    alt="GitHub Logo"
-    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-    width="200">
-</picture>
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
