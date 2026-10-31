@@ -4,7 +4,6 @@
 
 # Hi, I’m TuanDatND
 
-Java · Spring · JavaScript · Databases · Cloud
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -58,6 +57,4 @@ Java · Spring · JavaScript · Databases · Cloud
 ###
 
 ---
-
-<sub>Flow Field artwork adapted from [awesome-github-profile](https://github.com/beydemirfurkan/awesome-github-profile/tree/main/templates/12-generative/flow-field) (CC0).</sub>
 
